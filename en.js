@@ -59,7 +59,6 @@ This fire show is perfect for a buffet party when guests freely move around or i
                     { src: "img/party/fire-poi.jpg", alt: "fire poi" },
                     { src: "img/party/fire-show-1-artist-party.jpg", alt: "1 artist party" },
                     { src: "img/party/spark-show-party.jpg", alt: "spark show and fire show on festivale in luxembourg" },
-                    { src: "img/party/fire-show-time-laps", alt: "fire show photo sessions" },
                 ]
             }
         }, {
@@ -114,7 +113,8 @@ This fire show is perfect for a buffet party when guests freely move around or i
             details: {
                 header: "Guest greetings",
                 price: "380",
-                description: `"Guests welcoming" is a very specific and interesting fire show. In this fire show, the main emphasis is not on the complexity of the tricks or artist performance itself - but the creation of a certain luxury atmosphere and a beautiful background. While your guests arriving and have a welcome drink, the artist will fill in the pauses and give topics for conversation. Such a fire show is perfect not only for business meetings, presentations and corporate events, but also for weddings or parties. For all Luxembourg, transport costs are included in the price of the fire show.
+                description: `Guests welcoming" is a very specific and interesting fire show. In this fire show, the main emphasis is not on the complexity of the tricks or artist performance itself - but the creation of a certain luxury atmosphere and a beautiful background. While your guests arriving and have a welcome drink, the artist will fill in the pauses and give topics for conversation.
+Such a fire show is perfect not only for business meetings, presentations and corporate events, but also for weddings or parties. For all Luxembourg, transport costs are included in the price of the fire show.
         Outside Luxembourg, transport is calculated individually depending on the distance and transport connections.`,
                 images: [
                     { src: "img/guest-greetings/Fire-show-Luxembourg-kids-party.jpg", alt: "fire show kids party" },
@@ -145,7 +145,7 @@ This fire show is perfect for a buffet party when guests freely move around or i
         Such a show requires some space and all details better to discuss in advance.
         As always, all transportation costs are included in the fireshow price and we do not require a make-up room or catering when performing in Luxembourg.`,
                 images: [
-                    { src: "img/festival/fire-show-in-nus-des-lamptions.JPG", alt: "fire show nus des lamptions festival" },
+                    { src: "img/festival/fire-show-in-nus-des-lamptions.jpg", alt: "fire show nus des lamptions festival" },
                     { src: "img/festival/festivale pyrotechnic.jpg", alt: "pyrotechnic finale fire show in festival" },
                     { src: "img/festival/Fire-show-in-Lux-Anna.jpg", alt: "fire show with pyrotechnic in festival" },
                     { src: "img/festival/nus-des-laptions-fire-show.png", alt: "nus des lamptions Luxembourg festival" },
@@ -171,7 +171,7 @@ This fire show is perfect for a buffet party when guests freely move around or i
 
             details: {
                 header: "Fire inscription",
-                price: "from 30 euro per symbol",
+                price: "from 30",
                 description: `Fire inscriptions are a 100% novelty in Luxembourg. Make a nice gift for the hero of the day, and write "25" by fire letters instead of the usual candles on the cake! Write "I ♥ U" to state your feelings or maybe you are ready to write "will you marry me ? ".
         For corporate events, we recommend to write a company name or a logo.You can emphasize the party theme with the words "new year 2019" or "summer party".
         The fire lettering can be the end of a fire show or an individual performance.In any case, this is an excellent background for a group photo and impressions that will be remembered for a long time.
@@ -189,7 +189,7 @@ This fire show is perfect for a buffet party when guests freely move around or i
         },
         {
             name: "program7-led",
-            pageImage: "img/main-pictures/fire-led-2ppl.jpg",
+            pageImage: "img/main-pictures/led-show.jpg",
             title: "Light Show",
             bulletPoints: [
                 "Light show: 1 actor",
@@ -201,7 +201,7 @@ This fire show is perfect for a buffet party when guests freely move around or i
             details: {
                 header: "Light Show",
                 price: "250-380",
-                description: "long text",
+                description: "Please contact us to find out more info about this show and get some photo.",
                 images: [
                     { src: "img/led/1.JPG", alt: "" },
                     { src: "img/led/2.jpg", alt: "" },
@@ -210,7 +210,7 @@ This fire show is perfect for a buffet party when guests freely move around or i
         },
         {
             name: "program8-flag",
-            pageImage: "img/main-pictures/fire-led-2ppl.jpg",
+            pageImage: "img/main-pictures/coming-soon.jpg",
             title: "Flag Show",
             bulletPoints: [
                 "Flag show: 1 actor",
@@ -223,7 +223,7 @@ This fire show is perfect for a buffet party when guests freely move around or i
             details: {
                 header: "Flag Show",
                 price: "250",
-                description: "long text",
+                description: "Please contact us to find out more info about this show and get some photo.",
                 images: [
                     { src: "img/flag/1.JPG", alt: "" },
                     { src: "img/flag/2.jpg", alt: "" },
@@ -232,7 +232,7 @@ This fire show is perfect for a buffet party when guests freely move around or i
         },
         {
             name: "program9-festival-combo",
-            pageImage: "img/main-pictures/fire-led-2ppl.jpg",
+            pageImage: "img/main-pictures/festival-combo.jpg",
             title: "Festival combo",
             bulletPoints: [
                 "Light show",
@@ -245,10 +245,13 @@ This fire show is perfect for a buffet party when guests freely move around or i
             details: {
                 header: "Festival combo",
                 price: "1000",
-                description: "long text",
+                description: "Please contact us to find out more info about this show.",
                 images: [
-                    { src: "img/festival-combo/1.JPG", alt: "" },
-                    { src: "img/festival-combo/2.jpg", alt: "" },
+                    { src: "img/festival-combo/fire-show-in-nus-des-lamptions", alt: "" },
+                    { src: "img/festival-combo/led-show.jpg", alt: "" },
+                    { src: "img/festival-combo/Fire-show-in-Lux-Anna.jpg", alt: "" },
+                    { src: "img/festival-combo/Fire-show-Luxembourg-for-kids-party.jpg", alt: "" },
+                    
                 ]
             }
         }
