@@ -1,3 +1,4 @@
+
     var commons = {
         displayPriceButtonText: "Display price",
         programsSectionHeadingText: "PROGRAMMES AND PRICES",
@@ -24,7 +25,7 @@
                 price: "250",
                 description:
                     `This fire show does not require much space, it can be shown almost everywhere. One actor will show a complete performance with 3 different types of fire props lasting 10 minutes. Then, in the final of the performance you will see an incredibly spectacular show of sparks, that is millions of burning sparks will crumble around the actor. 
-Perfect for a birthdays, kids’ parties, store or restaurant openings, themed nights, love confessions - any small, but definitely important, event will become brighter with my fire show. This fire show includes travel expenses in Luxembourg.`,
+                    Perfect for a birthdays, kids’ parties, store or restaurant openings, themed nights, love confessions - any small, but definitely important, event will become brighter with my fire show. This fire show includes travel expenses in Luxembourg.`,
                 images: [
                     { src: "img/short-and-bright/Anna-fire-show-staff-1.jpg", alt: "fire staff - Anna’s fire show" },
                     { src: "img/short-and-bright/Fire-show-Luxembourg-for-kids-party.jpg", alt: "Fire show in Luxembourg for kids party.jpg" },
@@ -51,7 +52,7 @@ Perfect for a birthdays, kids’ parties, store or restaurant openings, themed n
                 header: "A party",
                 price: "300",
                 description: `The performance does not require much space, it can be shown almost everywhere. One actor will perform 3 times with breaks. Each time the artist will perform with new props. At the end of the last performance you will see an incredible show of sparks.
-This fire show is perfect for a buffet party when guests freely move around or if guests can watch the show sitting in their seats. Order this fire show and transport costs will be included throughout the whole Luxembourg.`,
+                              This fire show is perfect for a buffet party when guests freely move around or if guests can watch the show sitting in their seats. Order this fire show and transport costs will be included throughout the whole Luxembourg.`,
                 images: [
                     { src: "img/party/fire-show-new-year.jpg", alt: "fire show on new year party" },
                     { src: "img/party/fire-show-in-led-costume.jpg", alt: "fire show in led costume" },
@@ -114,7 +115,7 @@ This fire show is perfect for a buffet party when guests freely move around or i
                 header: "Guest greetings",
                 price: "380",
                 description: `Guests welcoming" is a very specific and interesting fire show. In this fire show, the main emphasis is not on the complexity of the tricks or artist performance itself - but the creation of a certain luxury atmosphere and a beautiful background. While your guests arriving and have a welcome drink, the artist will fill in the pauses and give topics for conversation.
-Such a fire show is perfect not only for business meetings, presentations and corporate events, but also for weddings or parties. For all Luxembourg, transport costs are included in the price of the fire show.
+        Such a fire show is perfect not only for business meetings, presentations and corporate events, but also for weddings or parties. For all Luxembourg, transport costs are included in the price of the fire show.
         Outside Luxembourg, transport is calculated individually depending on the distance and transport connections.`,
                 images: [
                     { src: "img/guest-greetings/Fire-show-Luxembourg-kids-party.jpg", alt: "fire show kids party" },
@@ -201,7 +202,7 @@ Such a fire show is perfect not only for business meetings, presentations and co
             details: {
                 header: "Light Show",
                 price: "250-380",
-                description: "Please contact us to find out more info about this show and get some photo.",
+                description: "Please contact us to find out more info about this show and get pictures and videos.",
                 images: [
                     { src: "img/led/1.JPG", alt: "" },
                     { src: "img/led/2.jpg", alt: "" },
@@ -223,7 +224,7 @@ Such a fire show is perfect not only for business meetings, presentations and co
             details: {
                 header: "Flag Show",
                 price: "250",
-                description: "Please contact us to find out more info about this show and get some photo.",
+                description: "Please contact us to find out more info about this show and get pictures and videos.",
                 images: [
                     { src: "img/flag/1.JPG", alt: "" },
                     { src: "img/flag/2.jpg", alt: "" },
